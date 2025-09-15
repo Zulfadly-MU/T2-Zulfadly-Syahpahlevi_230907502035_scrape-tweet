@@ -1,1 +1,1 @@
-# T2-Zulfadly-Syahpahlevi_230907502035_scrape-tweet
+alasan saya memilih Manchester United sebagai scrap data karna selalu menjadi topik pembicaraan dalam situasi menang maupun kalah
